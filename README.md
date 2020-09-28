@@ -1,5 +1,4 @@
 # Fan_Portfolio
-Data Science projects 
 
 # [Project 1: Red Wine Quality Classification](https://github.com/TianShuFan/Red_Wine_Classification)
 * Developed multiple models using various classification techniques to predict red wine quality based on intrinsic chemical properties. 
